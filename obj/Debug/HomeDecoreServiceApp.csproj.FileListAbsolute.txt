@@ -1,0 +1,6 @@
+F:\HomeDecoreServiceApp\HomeDecoreServiceApp\bin\HomeDecoreServiceApp.dll.config
+F:\HomeDecoreServiceApp\HomeDecoreServiceApp\bin\HomeDecoreServiceApp.dll
+F:\HomeDecoreServiceApp\HomeDecoreServiceApp\bin\HomeDecoreServiceApp.pdb
+F:\HomeDecoreServiceApp\HomeDecoreServiceApp\obj\Debug\HomeDecoreServiceApp.csprojResolveAssemblyReference.cache
+F:\HomeDecoreServiceApp\HomeDecoreServiceApp\obj\Debug\HomeDecoreServiceApp.dll
+F:\HomeDecoreServiceApp\HomeDecoreServiceApp\obj\Debug\HomeDecoreServiceApp.pdb
